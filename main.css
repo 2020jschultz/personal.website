@@ -4,3 +4,36 @@
 .aside2{
     margin-right: 10px;
 }
+.divclass{
+    width: 30%;
+}
+#bigdiv{
+
+}
+
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: red;
+    margin: 0 auto;
+    text-align: center;
+}
+.divclass2{
+    margin: 0px;
+    width: 100%;
+    height: 100px;
+    background-color: yellow;
+}
+
+.textalign1{
+    text-align: left;
+}
+
+.textalign2{
+    text-align: center;
+}
+
+.textalign3{
+    text-align: right;
+}
+
